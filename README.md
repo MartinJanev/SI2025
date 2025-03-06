@@ -3,4 +3,4 @@
 ### Аудиториски задачи
 
 #### Мартин Јанев
-#### Greg
+#### Greg, Na greg prv bratuced od sestra
