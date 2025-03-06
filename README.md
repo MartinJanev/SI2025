@@ -2,5 +2,4 @@
 
 ### Аудиториски задачи
 
-#### Мартин Јанев, Jana Brzata
-#### Greg
+#### Мартин Јанев, Jana Brzata, Greg, Na Greg prv bratuced od sestra
