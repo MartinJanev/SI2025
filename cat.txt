@@ -1,2 +1,7 @@
 MJAUMAJUAUMAJUUUUUUUUUUU
+<<<<<<< HEAD
 z
+=======
+
+Brzi
+>>>>>>> admin
